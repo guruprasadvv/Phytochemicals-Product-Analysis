@@ -1,0 +1,27 @@
+
+==============================================================================
+DELIVERABLE 3: BUSINESS INSIGHTS — PHYTOCHEMICAL WELLNESS PRODUCTS
+
+DATASET OVERVIEW
+----------------
+  Total Reviews Analysed : 2,131
+  Unique Products        : 24
+  Positive Sentiment     : 77.5%
+  Neutral  Sentiment     : 15.7%
+  Negative Sentiment     : 6.8%
+
+TOPIC LANDSCAPE (BERTopic)
+--------------------------
+  Dominant Concept       : and, the, to, for, my, it, is, this, in, of
+  Note: Refer to Deliverable2_Topic_Table.csv for the full cluster mapping.
+
+ASPECT SENTIMENT HIGHLIGHTS
+----------------------------
+  Highest Market Opportunity Aspect : 'side_effects'
+  Packaging Negative Share          : 5.2% of all negative aspect mentions
+
+AUTHENTICITY & SAFETY FLAGS
+----------------------------
+  Authenticity Concerns  : 6 reviews (0.3%)
+  Side-Effect Mentions   : 46 reviews (2.2%)
+==============================================================================

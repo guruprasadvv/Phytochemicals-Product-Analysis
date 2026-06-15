@@ -1,9 +1,0 @@
-Aspect,Total_Mentions,Positive_Count,Negative_Count,Avg_Sentiment_Score,Negative_Ratio_%,Avg_Helpful_Votes,Opportunity_Score
-side_effects,359,138,64,0.1029,17.8,1.0,7.27
-taste,430,272,65,0.2039,15.1,1.0,6.36
-effectiveness,1118,717,104,0.3059,9.3,1.0,4.53
-packaging,120,79,16,0.2458,13.3,1.0,4.43
-authenticity,211,132,21,0.3032,10.0,1.0,3.7
-health_impact,542,261,33,0.1887,6.1,1.0,2.66
-price,135,90,7,0.3471,5.2,1.0,1.77
-delivery,63,45,0,0.3076,0.0,1.0,0.0
